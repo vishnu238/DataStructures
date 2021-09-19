@@ -1,1 +1,1 @@
-This is my repository for DataStructures
+This is my repository for DataStructures. This repo will host datastructure programs.
